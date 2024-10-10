@@ -1,0 +1,46 @@
+/* style.css */
+
+/* Style global pour le corps de la page */
+.navbar{
+    background-color: #ffffff;
+    color: gray;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* style.css */
+
+/* Style pour les titres h1 */
+h1 {
+    font-family: Arial, sans-serif;
+    color: gray;
+    text-align: center;
+    margin-top: 20px;
+    font-style: italic; /* Ajout de l'italique */
+    font-size: 15px; /* Réduction de la taille de la police */
+}
+
+
+
+/* Style pour les titres h2 */
+h2 {
+    color: #ffffff; /* Couleur du texte en blanc */
+    background-color: #222D32; /* Couleur de fond en gris */
+    font-weight: bold; /* Texte en gras */
+    padding: 10px; /* Espacement intérieur pour un remplissage */
+    font-size: 24px; /* Taille de police assez grande */
+    margin-top: 15px;
+     text-align: center; /* Centrer le texte */
+}
+
+/* Style pour les titres h3 */
+h3 {
+    color: #333333;
+    margin-top: 10px;
+}
